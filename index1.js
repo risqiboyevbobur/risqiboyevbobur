@@ -57,7 +57,7 @@ Xaritadan ko'rish :) ${data.maps.googleMaps}
         // console.log(data.flags.png);
 
     }else{
-    Bot.sendMessage(chatId, `Kechirasiz bunday so'z topilmadi`)
+    Bot.sendMessage(chatId, `Kechirasiz bunday so'z topilmadi.`)
 }
 }
 
